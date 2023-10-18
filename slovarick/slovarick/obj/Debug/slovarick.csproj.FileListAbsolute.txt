@@ -1,0 +1,8 @@
+C:\Users\Tekwan\source\repos\slovarick\slovarick\obj\Debug\slovarick.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\slovarick\slovarick\obj\Debug\slovarick.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\slovarick\slovarick\obj\Debug\slovarick.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\slovarick\slovarick\bin\Debug\slovarick.exe.config
+C:\Users\Tekwan\source\repos\slovarick\slovarick\bin\Debug\slovarick.exe
+C:\Users\Tekwan\source\repos\slovarick\slovarick\bin\Debug\slovarick.pdb
+C:\Users\Tekwan\source\repos\slovarick\slovarick\obj\Debug\slovarick.exe
+C:\Users\Tekwan\source\repos\slovarick\slovarick\obj\Debug\slovarick.pdb
