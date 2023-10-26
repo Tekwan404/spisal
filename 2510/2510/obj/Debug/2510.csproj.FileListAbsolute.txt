@@ -1,0 +1,16 @@
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\MainWindow.g.cs
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\App.g.cs
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510_MarkupCompile.cache
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510_MarkupCompile.lref
+C:\Users\Tekwan\source\repos\2510\2510\bin\Debug\2510.exe.config
+C:\Users\Tekwan\source\repos\2510\2510\bin\Debug\2510.exe
+C:\Users\Tekwan\source\repos\2510\2510\bin\Debug\2510.pdb
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\MainWindow.baml
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.g.resources
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\_2510.Properties.Resources.resources
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.csproj.GenerateResource.cache
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.exe
+C:\Users\Tekwan\source\repos\2510\2510\obj\Debug\2510.pdb
